@@ -1,0 +1,15 @@
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\bin\Debug\net5.0\IVaga.Domain.deps.json
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\bin\Debug\net5.0\IVaga.Domain.runtimeconfig.json
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\bin\Debug\net5.0\IVaga.Domain.runtimeconfig.dev.json
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\bin\Debug\net5.0\IVaga.Domain.dll
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\bin\Debug\net5.0\ref\IVaga.Domain.dll
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\bin\Debug\net5.0\IVaga.Domain.pdb
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\obj\Debug\net5.0\IVaga.Domain.csproj.AssemblyReference.cache
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\obj\Debug\net5.0\IVaga.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\obj\Debug\net5.0\IVaga.Domain.AssemblyInfoInputs.cache
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\obj\Debug\net5.0\IVaga.Domain.AssemblyInfo.cs
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\obj\Debug\net5.0\IVaga.Domain.csproj.CoreCompileInputs.cache
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\obj\Debug\net5.0\IVaga.Domain.dll
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\obj\Debug\net5.0\ref\IVaga.Domain.dll
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\obj\Debug\net5.0\IVaga.Domain.pdb
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Domain\obj\Debug\net5.0\IVaga.Domain.genruntimeconfig.cache

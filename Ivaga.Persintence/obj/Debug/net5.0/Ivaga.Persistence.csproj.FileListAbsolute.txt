@@ -1,0 +1,17 @@
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\bin\Debug\net5.0\Ivaga.Persistence.deps.json
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\bin\Debug\net5.0\Ivaga.Persistence.runtimeconfig.json
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\bin\Debug\net5.0\Ivaga.Persistence.runtimeconfig.dev.json
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\bin\Debug\net5.0\Ivaga.Persistence.dll
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\bin\Debug\net5.0\ref\Ivaga.Persistence.dll
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\bin\Debug\net5.0\Ivaga.Persistence.pdb
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivaga.Persistence.csproj.AssemblyReference.cache
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivaga.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivaga.Persistence.AssemblyInfoInputs.cache
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivaga.Persistence.AssemblyInfo.cs
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivaga.Persistence.csproj.CoreCompileInputs.cache
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivaga.Persistence.dll
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\ref\Ivaga.Persistence.dll
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivaga.Persistence.pdb
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivaga.Persistence.genruntimeconfig.cache
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\bin\Debug\net5.0\IVaga.Domain.dll
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\bin\Debug\net5.0\IVaga.Domain.pdb
