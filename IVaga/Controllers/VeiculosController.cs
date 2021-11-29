@@ -10,11 +10,11 @@ namespace IVaga.API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class VeiculoController : ControllerBase
+    public class VeiculosController : ControllerBase
     {
         private readonly IVeiculoService _veiculoService;
 
-        public VeiculoController(IVeiculoService veiculoService)
+        public VeiculosController(IVeiculoService veiculoService)
         {
             _veiculoService = veiculoService;
         }

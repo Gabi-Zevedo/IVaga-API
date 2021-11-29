@@ -55,3 +55,4 @@ C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga\bin\Debug\net5.0\IVaga.Applicatio
 C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga\bin\Debug\net5.0\IVaga.Domain.pdb
 C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga\bin\Debug\net5.0\Ivaga.Persistence.pdb
 C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga\obj\Debug\net5.0\IVaga.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga\obj\Debug\net5.0\IVaga.API.csproj.CopyComplete

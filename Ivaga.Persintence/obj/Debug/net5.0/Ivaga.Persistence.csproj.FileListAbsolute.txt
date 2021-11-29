@@ -15,3 +15,4 @@ C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivag
 C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivaga.Persistence.genruntimeconfig.cache
 C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\bin\Debug\net5.0\IVaga.Domain.dll
 C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\bin\Debug\net5.0\IVaga.Domain.pdb
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\Ivaga.Persintence\obj\Debug\net5.0\Ivaga.Persistence.csproj.CopyComplete

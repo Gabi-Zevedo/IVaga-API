@@ -17,3 +17,4 @@ C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Application\bin\Debug\net5.0\IVag
 C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Application\bin\Debug\net5.0\Ivaga.Persistence.dll
 C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Application\bin\Debug\net5.0\IVaga.Domain.pdb
 C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Application\bin\Debug\net5.0\Ivaga.Persistence.pdb
+C:\Gabriel\U V A\P S OO\IVaga REST\IVaga\IVaga.Application\obj\Debug\net5.0\IVaga.Application.csproj.CopyComplete

@@ -3,9 +3,6 @@ using IVaga.Application.Contratos;
 using IVaga.Domain;
 using IVaga.Persistence.Contratos;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace IVaga.Application.Services
